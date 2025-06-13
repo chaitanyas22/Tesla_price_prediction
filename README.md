@@ -63,7 +63,7 @@ This repository contains a deep learning pipeline for predicting Tesla's stock c
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tesla-stock-lstm.git
+git clone https://github.com/chaitanya22/tesla_price_prediction.git
 cd tesla-stock-lstm
 ```
 
