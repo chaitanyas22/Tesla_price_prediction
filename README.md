@@ -92,10 +92,10 @@ streamlit run dashboard/streamlit_app.py
 
 ## 🌐 Live Demo
 
-- 🔗 Frontend: [https://waywise.co.uk](https://waywise.co.uk)
-- 🧠 API: FastAPI server running behind Nginx *(optional)*
+- 🔗 Frontend: [https://waywise.co.uk](http://research.waywise.co.uk/tesla_price_prediction_model)
+- 🧠 API: FastAPI server running behind Ngin
 
-> Replace the links above with actual deployment URLs
+
 
 ---
 
@@ -112,8 +112,8 @@ streamlit run dashboard/streamlit_app.py
 
 **Chaitanya**  
 🎓 BSc Computer Science Graduate  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🌍 [waywise.co.uk](https://waywise.co.uk)
+🔗 [LinkedIn](https://www.linkedin.com/in/chaitanya221)  
+🌍 [waywise.co.uk](http://waywise.co.uk)
 
 ---
 
